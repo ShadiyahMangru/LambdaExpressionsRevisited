@@ -1,0 +1,36 @@
+***********************************************************************************************
+CURRENT ROSTER STATS WIZARD
+
+FORWARDS AND DEFENSE: 
+Name            | Position        | #     | GP     | G      | S      | S%       
+---------------------------------------------------------------------------------
+Connolly        | Right Wing      | 10    | 50     | 9      | 78     | 11.538462 
+Eller           | Center          | 20    | 50     | 6      | 100    | 6.0      
+Orlov           | Defense         | 9     | 50     | 3      | 62     | 4.8387094 
+Ovechkin        | Left Wing       | 8     | 50     | 37     | 196    | 18.87755 
+Vrana           | Left Wing       | 13    | 50     | 15     | 98     | 15.306123 
+Backstrom       | Center          | 19    | 49     | 13     | 103    | 12.62136 
+Carlson         | Defense         | 74    | 49     | 8      | 113    | 7.079646 
+Niskanen        | Defense         | 2     | 48     | 7      | 85     | 8.235294 
+Kempny          | Defense         | 6     | 47     | 5      | 75     | 6.666667 
+Smith-Pelly     | Right Wing      | 25    | 46     | 4      | 55     | 7.272727 
+Stephenson      | Center          | 18    | 46     | 5      | 28     | 17.857143 
+Burakovsky      | Left Wing       | 65    | 44     | 6      | 58     | 10.344828 
+Kuznetsov       | Center          | 92    | 44     | 9      | 124    | 7.2580643 
+Oshie           | Right Wing      | 77    | 39     | 15     | 87     | 17.241379 
+Dowd            | Center          | 26    | 38     | 4      | 24     | 16.666668 
+Bowey           | Defense         | 22    | 32     | 1      | 33     | 3.030303 
+Wilson          | Right Wing      | 43    | 31     | 13     | 67     | 19.402985 
+Boyd            | Center          | 72    | 30     | 4      | 20     | 20.0     
+Jaskin          | Right Wing      | 23    | 30     | 1      | 39     | 2.5641026 
+Djoos           | Defense         | 29    | 28     | 0      | 18     | 0.0      
+Orpik           | Defense         | 44    | 22     | 2      | 18     | 11.111112 
+Siegenthaler    | Defense         | 34    | 22     | 0      | 12     | 0.0      
+Lewington       | Defense         | 78    | 2      | 1      | 3      | 33.333336 
+
+GOALIES: 
+Name            | Position        | #     | GP     | SV     | SA     | Sv%      
+---------------------------------------------------------------------------------
+Holtby          | Goalie          | 72    | 35     | 970    | 1072   | 0.9048507 
+Copley          | Goalie          | 1     | 19     | 484    | 536    | 0.9029851 
+***********************************************************************************************
